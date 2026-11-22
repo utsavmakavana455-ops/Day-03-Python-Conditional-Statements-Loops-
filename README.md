@@ -1,8 +1,4 @@
-# Day 03 – Python Conditional Statements & Loops 🐍
-
-Welcome to Day 3 of my 30 Days of Machine Learning journey!
-
-Today, I learned how to make decisions and repeat tasks using Python conditional statements and loops.
+# Day 03 – Python Conditional Statements & Loops 
 
 ## 🎯 Learning Objectives
 
